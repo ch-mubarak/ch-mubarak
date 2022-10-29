@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch-mubarak" alt="ch-mubarak" /></a> </p>
 
-- 🔭 I’m currently working on [myStyle](https://mystyle.codestreak.in/)
+<!-- - 🔭 I’m currently working on [myStyle](https://mystyle.codestreak.in/) -->
 
 - 🌱 I’m currently learning **Node.js, Express.js, React**
 
