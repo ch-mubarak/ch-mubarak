@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **mubarak@codestreak.in**
+- 📫 How to reach me **chmohamedmubarak@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
